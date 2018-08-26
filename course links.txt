@@ -1,0 +1,7 @@
+material course:
+https://github.com/jonasschmedtmann/advanced-css-course
+
+Jonas' resources:
+http://codingheroes.io/resources/
+
+https://teaminternational18.udemy.com/advanced-css-and-sass/learn/v4/content
